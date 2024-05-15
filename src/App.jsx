@@ -11,7 +11,7 @@ let food = ['dal','roti','chawal','bread','sabji',]
     <h2>food</h2>
    <ul  className="list-group">
     {food.map((item)=>  (<li key={item} className="list-group-item">{item}</li>) )}
-  <h1>hello this is github class</h1>
+  <h1>hello this is githfgffgfub class</h1>
 
 </ul>
 
